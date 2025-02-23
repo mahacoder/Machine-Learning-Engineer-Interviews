@@ -1,1 +1,1 @@
-# machine_learning_interviews
+A repository for all resources related to Machine Learning Engineer Interview Preparation
